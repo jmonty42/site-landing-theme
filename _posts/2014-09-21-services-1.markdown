@@ -1,8 +1,13 @@
 ---
 layout: default
-img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+img: indeed.png
+category: Experience
+title: My current company
+subtitle: Software Engineer II since October, 2018
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  I'm currently on the Pipeline team, part of the Delivery Engineering Group at Indeed in Seattle.
+  
+  I work on enabling engineering teams at Indeed to build their software using Jenkins.
+  
+  I'm also improving our system for maintaining dependencies across our internal libraries. 

@@ -1,7 +1,7 @@
 ---
 layout: default
-img: dog.png
-category: Services
+img: uber.jpg
+category: Experience
 title: 3D Device Mockups<br>by PSDCovers
 description: |
 ---
