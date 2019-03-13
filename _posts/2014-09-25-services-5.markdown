@@ -1,0 +1,16 @@
+---
+layout: default
+img: usu.png
+category: Experience
+title: Utah State University
+subtitle: Bachelor of Computer Science, May 2012
+description: |
+---
+I loved my time as an Aggie in Logan, Utah!
+
+While completing my degree I worked in several labs including the Space Dynamics
+Laboratory, the Center for Self-Organizing and Intelligent Systems, and the Utah Water
+Research Laboratory.
+
+I did work in fiber optic communications, computer vision, security research, and automated
+flight systems.

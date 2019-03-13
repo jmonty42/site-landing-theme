@@ -1,8 +1,19 @@
 ---
 layout: default
-img: phones.png
+img: amazon.png
 category: Experience
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Amazon
+subtitle: Software Engineer from September 2013 to May 2017
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Amazon is what brought me to the Seattle area back in 2013.
+
+At Amazon I was one of the first engineers on the team that launched Prime Now in 2014.
+My contribution was implementing the end-to-end feature in the Prime Now app that enables customers
+to leave a tip for the courier when placing an order.
+
+My last year at Amazon was spent on the Package Builder Team, which was part of the Builder Tools organization.
+We were responsible for maintaining and improving the build system that all of the engineers at Amazon used on 
+a daily basis.
+
+Most used language: Java

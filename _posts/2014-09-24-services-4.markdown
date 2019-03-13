@@ -1,0 +1,13 @@
+---
+layout: default
+img: ge.png
+category: Experience
+title: GE Oil & Gas
+subtitle: Software Engineer from June 2012 to September 2013
+description: |
+---
+GE in Minden, Nevada was my first employer after finishing college.
+
+I was a software engineer working on automated tests in C# on their ADAPT 3701 platform.
+
+Most used language: C#
