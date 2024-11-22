@@ -3,11 +3,11 @@ layout: default
 img: nerdwallet.png
 category: Experience
 title: NerdWallet
-subtitle: Sr. Software Engineer since February, 2022
+subtitle: Sr. Software Engineer from February, 2022 to August, 2024
 description: |
 ---
-  I am currently working remotely on the Infrastructure Engineering team.
+  I was working remotely on the Infrastructure Engineering team.
   
-  I am working on better enabling engineers to adopt Continuous Deployment principles.
+  I worked on better enabling engineers to adopt Continuous Deployment principles.
   
   Most used languages: Python & Go
