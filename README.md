@@ -2,6 +2,12 @@
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
+[Instructions for installing jekyll.](https://jekyllrb.com/docs/)
+
+tl;dr:
+- [Install dependencies](https://jekyllrb.com/docs/installation/ubuntu/)
+- `bundle exec jekyll build`
+
 ## How to use
  - Place a image in `/img/services/`
  - Create posts to display your services. Use the follow as an example:
