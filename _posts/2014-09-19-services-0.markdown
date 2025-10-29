@@ -1,0 +1,13 @@
+---
+layout: default
+img: meta.png
+category: Experience
+title: Meta
+subtitle: Sr. Software Engineer from December, 2024 to November, 2025
+description: |
+---
+  I was a Production Engineer on the Production macOS team in the Developer Infrastructure org. This team was responsible for managing the rack-mounted Apple Mac mini devices in Meta datacenters that ran production build and test workflows that required Apple hardware.
+  
+  Most of my time on this team was spent working on the virtualization project.
+  
+  Most used languages: Python & Rust
